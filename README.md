@@ -7,7 +7,7 @@ Ping a host and log latency and packet loss to CSV. Zero-dependency Python CLI â
 Requires Python 3.8+ and a system `ping` binary (present on Linux and macOS).
 
 ```bash
-git clone https://github.com/mrzhoucx/ping-monitor.git
+git clone https://github.com/heyzcx/ping-monitor.git
 cd ping-monitor
 ```
 
